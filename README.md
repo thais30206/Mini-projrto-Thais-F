@@ -1,6 +1,6 @@
 # Pipeline de Sanitização e ETL de Dados - Olist (E-commerce)
 
-Este repositório contém o Mini-Projeto Avaliativo do **Módulo 1 (Semana 07)** do curso de **Machine Learning e Visão Computacional [T3].
+Este repositório contém o Mini-Projeto Avaliativo do **Módulo 1 (Semana 07) do curso de **Machine Learning e Visão Computacional [T3].
 
 ## 📌 Descrição do Projeto
 O projeto consiste em um pipeline de Engenharia de Dados voltado para o tratamento, padronização e validação de regras de negócio em bases transacionais da Olist (`olist_products_dataset.csv` e `olist_orders_dataset.csv`).
